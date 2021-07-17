@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318645033732",
+    "project_id": "firstproject-3f9cf",
+    "storage_bucket": "firstproject-3f9cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318645033732:android:7292a95406228c077f8e51",
+        "android_client_info": {
+          "package_name": "com.example.backyardcinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318645033732-2potkgreb8qd0nn8e8l2rirc9atp9rqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfy45SRk3zaTQdlP_OBlNcizFN3t-5oDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318645033732-2potkgreb8qd0nn8e8l2rirc9atp9rqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
